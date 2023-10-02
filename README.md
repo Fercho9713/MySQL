@@ -1,2 +1,2 @@
 # MySQL
-Trabajos realizados en MySQL par manipular diferentes bases de datos
+Trabajos realizados en MySQL para manipular diferentes bases de datos
